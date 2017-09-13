@@ -100,7 +100,7 @@ const app = {
 
     crearMarcador: function(map) {
         let icono = {
-            url: 'http://icons.iconarchive.com/icons/sonya/swarm/128/Bike-icon.png',
+            url: 'img/car.ico',
             size: new google.maps.Size(71, 71),
             origin: new google.maps.Point(0, 0),
             anchor: new google.maps.Point(17, 34),
