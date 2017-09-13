@@ -35,6 +35,9 @@ input
   font-weight: bold;
   text-decoration: none;
 }
-a {
+button:hover{
+  background:-webkit-linear-gradient(left, purple,#FF00FF);
+	border: transparent;
   text-decoration: none;
+  color: white;
 }
